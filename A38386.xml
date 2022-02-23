@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's deliverance from popery and slavery and the piety and justice of King William and Queen Mary of ever blessed memory, in ascending the throne of these dominions, asserted.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38386</idno>
+            <idno type="STC">Wing E2957A</idno>
+            <idno type="STC">ESTC R36560</idno>
+            <idno type="EEBO-CITATION">15725212</idno>
+            <idno type="OCLC">ocm 15725212</idno>
+            <idno type="VID">104538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1591:105)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's deliverance from popery and slavery and the piety and justice of King William and Queen Mary of ever blessed memory, in ascending the throne of these dominions, asserted.</title>
+               </titleStmt>
+               <extent>1 broadside : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Eleanor Smith, and are to be sold by John Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved portraits of William and Mary.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104538:1" rendition="simple:additions"/>
+            <head>
+               <hi>England's Deliverance from Popery and Slavery:</hi> And the Piety and Juſtice of King <hi>WILLIAM,</hi> and Queen <hi>MARY</hi> of Ever Bleſſed Memory, in Aſcending the Throne of theſe Dominions, Aſſerted.</head>
+            <head>
+               <figure>
+                  <figDesc>King William III of England</figDesc>
+               </figure> 
+               <figure>
+                  <figDesc>depiction of the royal scepter</figDesc>
+               </figure> 
+               <figure>
+                  <figDesc>Queen Mary II of England</figDesc>
+               </figure>
+            </head>
+            <p n="1">I. BEcauſe <hi>James,</hi> Duke of <hi>York</hi> was by three Par<g ref="char:EOLhyphen"/>liaments of the Com<g ref="char:EOLhyphen"/>mons of <hi>England,</hi> rightly adjudged to have rendered himſelf unca<g ref="char:EOLhyphen"/>pable to Execute the Soveraign Power of theſe Realms, having Apoſtatized to Popery; where<g ref="char:EOLhyphen"/>by he incapacitated himſelf, 1. To Maintain the Dignities and Preeminencies of this Imperial Crown, as they were aſſerted in the Oaths of Allegiance and Su<g ref="char:EOLhyphen"/>premacy, in both which all Pa<g ref="char:EOLhyphen"/>pal Power is rejected and barred. 2. To take and keep the Coro<g ref="char:EOLhyphen"/>nation-Oath, in the firſt Clauſe whereof he promiſeth, <hi>To keep the Church of God, the Clergy and People entirely in Peace and Concord in God.</hi>
+            </p>
+            <p n="2">II. Having been admitted as King, he degenerated into a Tyrant, openly endeavouring to overturn the Eſtabliſhed Laws, Liberties, and Religion, and to introduce Arbitrary Power and the Popiſh Su<g ref="char:EOLhyphen"/>perſtition; as appeareth, 1. By raiſing Money contrary to Law; that is without any Act of Parliament, as in the Levying of Cuſtoms, Exciſe, <hi>&amp;c.</hi> 2. By maintaining a ſtanding Army in time of Peace. 3. Quartering that Army contrary to Law and the Petition of Right. 4. Officering that Army with Papiſts, Subjects in part to a Foreign Power, in Oppoſition to the Laws of the Land, and Addreſſes of his Parliament, to whom he made this Anſwer, <hi>Novemb.</hi> 9. 1685. <hi>Though the ſaid Officers were not qualified according to the late Teſts for their Employments, yet he would neither expoſe them to Diſgrace, nor himſelf to the want of them.</hi> 5. By his aſſuming a Legiſlative Power, by Diſpenſing with all Statutes for the Proteſtant Religion eſtabliſhed by Law, whereby he at one blow took away above Forty Acts of Parliament. 6. Erecting a High-Commiſſion-Court for Eccleſiaſtical Affairs, to proceed with a <hi>Non obſtante;</hi> that is, without and againſt Law; whereby the Biſhop of <hi>London</hi> was Suſpended, the Preſident and Fellows of <hi>Magdalen</hi> Colledge, <hi>Oxon.</hi> were outed of their Free-holds without Legal Proceſs, and becauſe they would not contrary to their Oath chuſe an unqualified Preſident; though it's expreſly provided in <hi>Magna Charta,</hi> That no Man ſhall loſe Life, Limb, or Goods, but by the Law of the Land. Alſo the ſame Colledge, as well as others in both Univerſities, were provided with Popiſh Prieſts, who by the Law of the Land ought to be hang'd. 7. Impriſoning ſeven Biſhops, only becauſe they Petitioned him to regard the Oath he had taken to maintain the Laws of the Kingdom. 8. Setting up Popiſh Maſs-Houſes, Schools, Monaſteries, ſending out four Popiſh Provincial Biſhops to Viſit <hi>England;</hi> admitting <hi>Petre</hi> a Jeſuit, and other Papiſts into his Privy-Council; ſending an Embaſ<g ref="char:EOLhyphen"/>ſador to <hi>Rome,</hi> and receiving a <hi>Nuncio</hi> from the Pope, putting Papiſts into Commiſſion of the Peace all the Kingdom over, and Commiſ<g ref="char:EOLhyphen"/>ſioning a Popiſh Judge to ſit on the Bench. 9. And after all this, ſig<g ref="char:EOLhyphen"/>nifying in his Second Declaration for Liberty of Conſcience, dated <hi>April</hi> 7. 1688. <hi>That none ought to be employed under him, but ſuch as would contribute to chuſe ſuch Members of Parliament, as might do their part to finiſh what he had begun.</hi> 10. In <hi>Scotland</hi> he decla<g ref="char:EOLhyphen"/>red himſelf cloathed with Abſolute Power, and that his Subjects ought to Obey him without Reſerve.</p>
+            <p n="3">III. To entail Popery and Tyranny upon the Kingdom, he en<g ref="char:EOLhyphen"/>deavoured to alter the Succeſſion, by impoſing a falſe Heir upon theſe Kingdoms, in Diſ-inheriſion of the Princeſs of <hi>Orange</hi> his Daughter, the true Apparent Heir of the Crown, whoſe undoubted Right to the Succeſſion could not be overthrown, unleſs the new Claimer's Right be fully proved by a competent Number of Witneſſes, duly qualified to give Evidence upon ſo high a Concern. For whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h 'twas neceſ<g ref="char:EOLhyphen"/>ſary, 1. That they who aſſiſted, or attended at the Queen's pretended Delivery, ſhould be Perſons of known Honour and Honeſty; not Foreigners, Papiſts, or ſuch complying Proteſtants, who had aſſiſted the King in his unlawful Deſigns. 2. The Time and Place of the pretended Birth ſhould have been fore-known, and ſo ordered as not to have given great Suſpicion of Indirectneſs. 3. 'Twas neceſſary that the Princeſſes of the Blood ſhould have had notice thereof, that in their Perſons, or by their Proxies they might have been preſent. 4. And alſo tht they or their Proxies, or at leaſt ſome other Women of High Quality and Great Credit, ſhould have been made acquain<g ref="char:EOLhyphen"/>ted with ſuch Symptoms of a true Conception, which any Breeding Woman may with Eaſe and Mo<g ref="char:EOLhyphen"/>deſty diſcover, as Milk in the Breaſt, and motion of the Child. And that which made all theſe Precautions neceſſary, was the Univerſal Suſpicion, that the Queen's great Belly was fictitious. And there were ſome Great-bellied Women, a little before the time of the Queen's pretended Delivery, treated with, to part with their Child as ſoon as born, provided it were a Son. But on the contrary, the Women who aſſiſted, were moſt Papiſts and Foreigners; the Men who at<g ref="char:EOLhyphen"/>tended (at a diſtance too) were the Inſtruments of the King's Miſ<g ref="char:EOLhyphen"/>rule, as the Lord Chanc. and others; the Princeſſes of the Blood not preſent, ſo much as by Proxies: Time and place of the Birth con<g ref="char:EOLhyphen"/>cealed; a private Door within the Ruel of the Bed, the Curtains whereof were then drawn; the Child not ſhewn in the Room where the pretended Delivery was, and but one Proteſtant Gentlewoman at laſt, who aſſerted the reality of the Queen's being with Child. Now, if Zeal for the Popiſh Cauſe, could prevail on the King to break through his Oaths and frequent Promiſes, to maintain the Church and Laws of <hi>England,</hi> 'tis no ſtrange thing that he ſhould conſent to the Diſ-inheriſion of his Proteſtant Children.</p>
+            <p n="4">IV. That for the foreſaid Reaſon the King was juſtly laid aſide, and abrogated for Miſgovernment, will appear, if we conſider with St. <hi>Paul</hi> the Nature of Government in the general; <hi>as it is God's Miniſtry to us for good, Rom.</hi> 13.4. Or elſe in any particular Form, with St. <hi>Peter,</hi> who in that reſpect calls it <hi>the Ordinance of Man,</hi> 1 Pet. 2.13. Without doubt Men as well as God ordained it for their Good. So that a Soveraign Prince can claim no Authority either from God or Man to Oppreſs his People. But if he does, they may juſtly lay aſide their Oppreſſor; and being obliged by God's Law of Nature to preſerve themſelves and Fa<g ref="char:EOLhyphen"/>milies, they ought ſo to do. And ſince the ſole reaſon of our Allegiance to a King is the Common Good, when his Government becometh an intolerable publick Evil, our Allegiance is at an end.</p>
+            <p>Agreeable hereunto is our Old <hi>Engliſh</hi> Conſtitution, as appeareth by the Solemn Depoſing of King <hi>Edward</hi> II. and his Grandſon King <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> II. to whom the Lords and Commons declared, That they had it by Ancient Statute, and by a late doleful Inſtance, that in caſe a King ſhall alienate himſelf from his People by bad Advice, and in a head-ſtrong way will exerciſe his own Self-will: From thence it ſhall be Lawful for them to Depoſe the King from the Regal Throne, and to promote ſome Kinſman of his, of the Royal Family, to the Throne of the Kingdom in his ſtead. <hi>Knighton.</hi>
+            </p>
+            <p n="5">V. The ſetled Reſolution of King <hi>James</hi> to Rule by an Arbitrary Power, will appear from his twice withdrawing himſelf from the ex<g ref="char:EOLhyphen"/>ecution of his Royal Truſt, and leaving the Kingdom rather than he would refer the Matter of Succeſſion, which was then in Diſpute be<g ref="char:EOLhyphen"/>twixt him and the Prince of <hi>Orange,</hi> and alſo other Matters of Diffe<g ref="char:EOLhyphen"/>rence betwixt him and his People, to a free Parliament; he would in <hi>a head-ſtrong way</hi> go to <hi>France,</hi> that by the Aſſiſtance of <hi>French</hi> Counſels and Arms, he might return a Conquerour, and Rule (as for ſome time he did in <hi>Ireland</hi>) by thoſe Counſels, and his own Will.</p>
+            <p n="6">VI. There is a Right Honourable Peer (who was very intimate with the late King <hi>Charles</hi>) who has writ a Character of him; and when he comes to ſpeak of his Death, he ſaith, <hi>I am aſſured the moſt knowing of his Phyſicians did not only believe him poiſon'd, but thought himſelf ſo too, not long after, for having declared his Opinion too boldly.</hi> [He means Dr. <hi>Short,</hi> who dyed about eight days after that King.] Now, tho' we may not ſay, the Duke of <hi>York</hi> was privy to this Villany, yet it may honeſtly be thought to have been done for his ſake: And tho' he could not but know there was a ſuſpicion of it, yet he never made any Inquiſition into it.</p>
+            <p>Theſe Reaſons do fully juſtifie the Act of Parliament, which Inve<g ref="char:EOLhyphen"/>ſteth the Prince and Princeſs of <hi>Orange</hi> with the Imperial Crown of this Realm: Wherein it is declared, That King <hi>James</hi> II. did endea<g ref="char:EOLhyphen"/>vour to ſubvert and extirpate the Proteſtant Religion, and the Laws and Liberties of this Kingdom; and alſo that he had Abdicated, <hi>i. e.</hi> Forfeited the Government, whereby the Throne became vacant.</p>
+            <p>And Secondly, If the Throne was vacant, and there has appeared no Legal Proof of the pretended Prince of <hi>Wales</hi>'s Right thereunto, but ſtrong Preſumptions on the contrary, it was both Lawfully and Rightfully filled by his preſent Majeſty King <hi>William</hi> III. and his late Royal Conſort of Ever Bleſſed Memory, our moſt Gracious <hi>QUEEN MARY.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Eleanor Smith,</hi> and are to be Sold by <hi>John Whitlock</hi> near <hi>Stationers-Hall.</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
